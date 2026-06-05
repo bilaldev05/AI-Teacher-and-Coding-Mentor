@@ -30,7 +30,7 @@ app.add_middleware(
 )
 
 
-# ROUTES
+
 
 app.include_router(
     teacher_router,
