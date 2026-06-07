@@ -30,8 +30,7 @@ Return:
 
 
 
-# CODING MENTOR PROMPT
-
+# CODING MENTOR 
 
 def build_coding_prompt(
     language: str,
